@@ -1,0 +1,28 @@
+unit 3 
+URIs nd urls  URL= uniform resource locator 
+uri uniform resource identifier  
+uri=url&urn
+
+url tells us where and how to locate a resource on the internet 
+url identidies a resource but doesn't  help to allocate it  uniform resource anme  
+ book isbn 
+isbn =international standard of book number 
+
+http:// example.com/blog/article.html/?id=valur/ #section 
+
+protocal/domain/path                / uery parameter/8080
+ 
+
+                   				     port
+
+Relative URL 
+ur without prc
+blog/article 
+
+Base URL:http//:example
+Relative URL :-blog/article.html
+Full URL :- http://example.com/blog/article/html
+
+1.Write a program in java to demonstrate Spamcheck.
+2.Wrtie a program in java  to demonstrate log file processing .
+3. Write a program in java to create retrive  and Split a url .
