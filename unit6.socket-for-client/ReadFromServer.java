@@ -15,7 +15,7 @@ public class ReadFromServer {
             pstream.println();
 
             String line;
-            while((line=reader.readline())!=null){
+            while((line=reader.readLine())!=null){
                 System.out.println(line);
             }
             socket.close();

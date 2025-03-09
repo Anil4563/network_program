@@ -54,9 +54,10 @@ while((line=reader.readLine())!=null){
         System.out.println("No valid defination returned.");
 
     }
+}
     writer.write("quit\r\n");
     writer.flush();
-    {
+    
 }catch(SocketTimeoutException e){
     System.out.println("Error:Server took too ling to respond ,Try agaiub kater .1");
 
@@ -65,8 +66,8 @@ while((line=reader.readLine())!=null){
 }
 
            
-        }
-    
+}
+}
     
 
 
